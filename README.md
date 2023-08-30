@@ -18,7 +18,7 @@ PyPassword Generator is a simple password generation tool built using Python and
 
 1. Clone this repository to your local machine using:
 ```
-git clone https://github.com/your-username/PyPassword-Generator.git
+git clone https://github.com/hat7r1ck/PyPassword-Generator.git
 ```
 2. Navigate to the project directory:
 ```
